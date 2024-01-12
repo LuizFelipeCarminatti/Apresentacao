@@ -22,5 +22,5 @@
 </div><br><br>
 
 <div>
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <a href="https://www.linkedin.com/in/luiz-felipe-carminatti-073b98258/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
