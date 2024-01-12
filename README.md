@@ -9,7 +9,9 @@
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeCarminatti&theme=dark&layout=compact"/>
 </div>
 <div style="display: inline-block">
-   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+          
           
 
 
