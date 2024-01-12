@@ -11,5 +11,5 @@
 <div style="display: inline-block">
  <img src="https://github.com/LuizFelipeCarminatti/Apresentacao/assets/46489152/8b03d348-f2f3-4bc1-9e09-a3c68b382dda" />
  <img src="https://github.com/LuizFelipeCarminatti/Apresentacao/assets/46489152/361b20c0-86e1-4ec6-bea9-73e24f5a1c4d"/>      
- 
+ <img src="https://github.com/LuizFelipeCarminatti/Apresentacao/assets/46489152/c0702427-7da2-4415-be82-04e607dc392d"/>
 </div>
