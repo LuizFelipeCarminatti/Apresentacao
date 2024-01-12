@@ -16,4 +16,7 @@
  <img width="80" src="ajax.png"/>
  <img src="https://github.com/LuizFelipeCarminatti/Apresentacao/assets/46489152/1a30c3ac-772f-49ce-91a7-aeae13de3952"/>
  <img src="https://github.com/LuizFelipeCarminatti/Apresentacao/assets/46489152/4d5a38ff-9e78-49b1-8b49-9c2348ef0d87"/>
+ <img src="https://github.com/LuizFelipeCarminatti/Apresentacao/assets/46489152/c834647b-b276-46c7-af63-7613a3bf4c05"/>
+ <img src="https://github.com/LuizFelipeCarminatti/Apresentacao/assets/46489152/d2f1a890-2c59-46b3-8167-297004c153fd"/>
+ <img src="https://github.com/LuizFelipeCarminatti/Apresentacao/assets/46489152/7944ac4e-e85f-47ca-9ac1-a7dd34775a69"/>
 </div>
