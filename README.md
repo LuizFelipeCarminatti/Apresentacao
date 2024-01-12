@@ -19,7 +19,7 @@
  <img width="60" src="https://github.com/LuizFelipeCarminatti/Apresentacao/assets/46489152/c834647b-b276-46c7-af63-7613a3bf4c05"/>
  <img width="60" src="https://github.com/LuizFelipeCarminatti/Apresentacao/assets/46489152/d2f1a890-2c59-46b3-8167-297004c153fd"/>
  <img width="60" src="https://github.com/LuizFelipeCarminatti/Apresentacao/assets/46489152/7944ac4e-e85f-47ca-9ac1-a7dd34775a69"/>
-</div>
+</div><br><br>
 
 <div>
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
